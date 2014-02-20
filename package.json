@@ -1,0 +1,9 @@
+{
+  "name": "maxhoffmann-bindings",
+  "description": "a minimal binding library for the dom",
+  "version": "0.1.0",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {},
+  "license": "MIT"
+}
